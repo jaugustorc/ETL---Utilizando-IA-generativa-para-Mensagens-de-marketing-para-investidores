@@ -1,6 +1,6 @@
 # ETL - Utilizando IA Generativa para Mensagens de Marketing para Investidores
 
-## Santander Dev Week 2023 (ETL com Python)
+## Santander Bootcamp 2023 - Ciência de Dados com Python
 
 ### Contexto
 
